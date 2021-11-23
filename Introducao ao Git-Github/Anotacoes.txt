@@ -1,3 +1,18 @@
 Link para download do Git: https://git-scm.com/downloads
+Link de referência: https://www.atlassian.com/br/git/tutorials/learn-git-with-bitbucket-cloud
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos básicos:
+git status -> mostra situação do repositório local no momento. 
+
+Caso precise atualizar o Git na nuvem:
+git add . ou * (coloca na stage area)
+https://pt.stackoverflow.com/questions/326160/diferen%C3%A7a-entre-git-add-all-git-add-e-git-add-u
+
+Depois de add, commit:
+git commit -m "<comentário da atualização local>"
+
+Depois para subir para a nuvem:
+git push origin main
+
