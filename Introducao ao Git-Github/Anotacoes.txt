@@ -16,3 +16,9 @@ git commit -m "<comentário da atualização local>"
 Depois para subir para a nuvem:
 git push origin main
 
+Quando fui fazer o curso de html/css:
+
+1 - criei na nuvem um repositório (html-css-dio);
+2 - criei com "git init" um repositório na pasta de minha máquina;
+3 - dei o comando "git add ." para adicionar todos os arquivos criados ao repositório local;
+4 - depois 'git push "https://github.com/ivandrosilva/html-css-dio" ' para subir os arquivos para a nuvem.
